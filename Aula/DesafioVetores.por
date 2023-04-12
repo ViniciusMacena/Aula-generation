@@ -3,6 +3,8 @@ programa
 	
 	funcao inicio()
 	{
+		escreva("Bem vindo.")
+		
 		inteiro vet[10] = {2,5,1,3,4,9,7,8,10,6}
 
 		printDecresente(vet)	
@@ -81,7 +83,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1254; 
+ * @POSICAO-CURSOR = 59; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
